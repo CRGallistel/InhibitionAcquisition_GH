@@ -1,0 +1,14 @@
+Sessionstart = 113	
+Sessionend = 114
+Fanon = 117
+Fanoff = 118
+Redlighton = 41
+Redlightoff= 31
+ITIStart1 = 121
+ITIend = 122
+Trialstart = 111
+Toneon = 061
+Toneoff = 051
+Pelletdelivered = 21
+Pokestart = 1011
+Pokeend = 1001
